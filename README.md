@@ -1,6 +1,6 @@
 # 👋 Salut ! Moi c’est Mehdi
 
-Bienvenue sur mon profil GitHub. Je suis gestionnaire relation client en reconversion vers le développement web et la création de solutions numériques. Je travaille sur des projets de formation et des projets personnels pour consolider mes compétences.
+Bienvenue sur mon profil GitHub. Je suis gestionnaire relation client avec des competences orientes vers le développement web et la création de solutions numériques. Je travaille sur des projets de formation et des projets personnels pour consolider mes compétences.
 
 ## 🛠️ Compétences et intérêts
 - Relation client et gestion de projet
